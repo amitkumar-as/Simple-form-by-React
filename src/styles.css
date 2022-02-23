@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: cyan;
+}
+.container {
+  background-color: #00001a;
+}
+.heading {
+  color: chocolate;
+}
+
+.para {
+  transform: translateX(-130px);
+}
+.para1 {
+  transform: translateX(-100px);
+}
+.para2 {
+  transform: translateX(20px);
+}
+
+.para3 {
+  transform: translateX(-40px);
+}
+
+.para4 {
+  transform: translateX(-70px);
+}
+.input {
+  transform: translateX(-120px);
+}
+.input1 {
+  transform: translateX(-127px);
+}
+
+.input2 {
+  transform: translateX(-138px);
+}
+.input3 {
+  transform: translateX(-119px);
+}
+.input4 {
+  transform: translateX(-128px);
+}
